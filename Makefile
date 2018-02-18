@@ -6,7 +6,7 @@
 #    By: flecouey <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/11/17 12:38:34 by flecouey          #+#    #+#              #
-#    Updated: 2017/12/07 16:42:14 by flecouey         ###   ########.fr        #
+#    Updated: 2017/12/22 11:35:43 by flecouey         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -70,6 +70,7 @@ SRCS = 	ft_atoi.c \
 		ft_strwindex.c \
 		ft_strwleni.c \
 		ft_strwlenn.c \
+		ft_tablen.c \
 		ft_tolower.c \
 		ft_toupper.c
 
