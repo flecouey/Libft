@@ -6,7 +6,7 @@
 #    By: flecouey <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/11/17 12:38:34 by flecouey          #+#    #+#              #
-#    Updated: 2018/03/31 18:59:27 by flecouey         ###   ########.fr        #
+#    Updated: 2018/04/01 21:02:13 by flecouey         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -38,6 +38,7 @@ SRCS = 	ft_atoi.c \
 		ft_putendl.c \
 		ft_putendl_fd.c \
 		ft_putnbr.c \
+		ft_putnbrendl.c \
 		ft_putnbr_fd.c \
 		ft_putnstr.c \
 		ft_putstr.c \

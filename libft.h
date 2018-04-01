@@ -6,7 +6,7 @@
 /*   By: flecouey <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/11/16 16:09:00 by flecouey          #+#    #+#             */
-/*   Updated: 2018/03/31 19:00:37 by flecouey         ###   ########.fr       */
+/*   Updated: 2018/04/01 21:02:34 by flecouey         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -58,6 +58,7 @@ void				ft_putchar_fd(char c, int fd);
 void				ft_putendl(char const *s);
 void				ft_putendl_fd(char const *s, int fd);
 void				ft_putnbr(int nb);
+void				ft_putnbrendl(int nb);
 void				ft_putnbr_fd(int nb, int fd);
 void				ft_putnstr(char const *s, size_t len);
 void				ft_putstr(char const *s);
