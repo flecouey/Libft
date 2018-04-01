@@ -6,7 +6,7 @@
 #    By: flecouey <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2017/11/17 12:38:34 by flecouey          #+#    #+#              #
-#    Updated: 2017/12/22 11:35:43 by flecouey         ###   ########.fr        #
+#    Updated: 2018/03/31 18:59:27 by flecouey         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -31,6 +31,7 @@ SRCS = 	ft_atoi.c \
 		ft_memdel.c \
 		ft_memmove.c \
 		ft_memset.c \
+		ft_nextsquare.c \
 		ft_npower.c \
 		ft_putchar.c \
 		ft_putchar_fd.c \
@@ -38,10 +39,12 @@ SRCS = 	ft_atoi.c \
 		ft_putendl_fd.c \
 		ft_putnbr.c \
 		ft_putnbr_fd.c \
+		ft_putnstr.c \
 		ft_putstr.c \
 		ft_putstr_fd.c \
 		ft_strcat.c \
 		ft_strchr.c \
+		ft_strchrindex.c \
 		ft_strclr.c \
 		ft_strcmp.c \
 		ft_strcpy.c \
